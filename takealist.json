@@ -1,0 +1,59 @@
+[
+  {
+    "takealist": {
+      "meta": {
+        "title": "My first list",
+        "description": "This is an example for a takealist",
+        "status": "In Progress"
+      },
+      "list": {
+        "steps": [
+          {
+            "step": "Fork",
+            "text": "Fork this list, if you like to share your list on github",
+            "status": "In Progress"
+          },
+          {
+            "step": "Download",
+            "text": "Or just download this list on your device",
+            "status": "Waiting"
+          },
+          {
+            "step": "Upload",
+            "text": "and upload it on https://takealist.app to explore the list"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "takealist": {
+      "meta": {
+        "title": "Further list",
+        "description": "As you can see, you are able to store many lists within 1 file",
+        "status": "Waiting"
+      },
+      "list": {
+        "steps": [
+          {
+            "step": "With many or only 1 step",
+            "text": "like this one",
+            "status": "Waiting"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "takealist": {
+      "meta": {
+        "title": "List without steps",
+        "description": "...is possible too",
+        "status": "In Progress"
+      },
+      "list": {
+        "steps": []
+      }
+    }
+  }
+]
